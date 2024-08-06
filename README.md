@@ -1,4 +1,4 @@
-for source compillation https://github.com/stpf99/sf2cute
+for source compillation https://github.com/stpf99/sf2cute    | libsndfile
 
 g++ -std=c++17 -o soundfont_generator soundfont_generator.cpp -lsf2cute -lsndfile
 
